@@ -16,9 +16,6 @@ Heavil borrowed content from this great tutorial. The steps/code in this repo co
 - Create a Google Sheet that tracks stocks of choice
 - Add and modify the app script for use
 
-### Link to GSheet with Formulas 
-GSheet: https://docs.google.com/spreadsheets/d/1Taj-bFs4p_6B3HrgT9ZgIi5_vnZjOQEuHa_d-iQtu3Q/edit?usp=sharing  
-
 
 # Getting Started 
 1. Create a Google sheet to track stock data. Use CSV template. Update formulas in GSheet to get Google Finance Functionality.
