@@ -7,6 +7,10 @@ Heavil borrowed content from this great tutorial. The steps/code in this repo co
 **Tutorial 1** : https://spreadsheet.dev/send-html-email-from-google-sheets  
 **Tutorial 2**: https://spreadsheet.dev/send-email-from-google-sheets-based-on-a-schedule
 
+### Example of Email Received 
+![image](https://github.com/user-attachments/assets/28067f12-b5ed-4a0a-8c84-1c603ff1f9fb)
+
+
 
 ### Project Objectives 
 - Create a Google Sheet that tracks stocks of choice
