@@ -3,8 +3,9 @@ Google Sheet- Using Google Finance functions to create an Automated Email Stock 
 
 ### Based on Tutorial 
 Heavil borrowed content from this great tutorial. The steps/code in this repo combine the two tutorials below. 
-Tutorial 1 : https://spreadsheet.dev/send-html-email-from-google-sheets  
-Tutorial 2: https://spreadsheet.dev/send-email-from-google-sheets-based-on-a-schedule
+
+**Tutorial 1** : https://spreadsheet.dev/send-html-email-from-google-sheets  
+**Tutorial 2**: https://spreadsheet.dev/send-email-from-google-sheets-based-on-a-schedule
 
 
 ### Project Objectives 
@@ -17,7 +18,7 @@ GSheet: https://docs.google.com/spreadsheets/d/1Taj-bFs4p_6B3HrgT9ZgIi5_vnZjOQEu
 
 # Getting Started 
 1. Create a Google sheet to track stock data. Use CSV template. Update formulas in GSheet to get Google Finance Functionality.
-- Link to GSheet with Formulas: https://docs.google.com/spreadsheets/d/1Taj-bFs4p_6B3HrgT9ZgIi5_vnZjOQEuHa_d-iQtu3Q/edit?usp=sharing  
+- **Link to GSheet with Formulas**: https://docs.google.com/spreadsheets/d/1Taj-bFs4p_6B3HrgT9ZgIi5_vnZjOQEuHa_d-iQtu3Q/edit?usp=sharing  
 
 
 3. Create a Named Range for this data to make it easy to access it from a script.
